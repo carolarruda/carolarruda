@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue.js and Angular**
 
-- 📫 How to reach me **carolinacalarruda@gmail.com**
+- 📫 How to reach me [here](mailto:carolinacalarruda@gmail.com)
 
 - 📄 Know about my experiences [https://app.enhancv.com/share/ca9fed4a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/ca9fed4a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
