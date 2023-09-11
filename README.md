@@ -19,5 +19,5 @@
 
 ### My Stats
 
-<a href="https://github.com/nicopicchio"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicopicchio&langs_count=10&title_color=ffa500&text_color=ffffff&icon_color=ffa500&bg_color=21262d&hide_border=true&locale=en&custom_title=Most%20%used%20%languages&layout=compact" alt="Top Languages" /></a>
+<a href="https://github.com/carolarruda"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolarruda&langs_count=10&title_color=ffa500&text_color=ffffff&icon_color=ffa500&bg_color=21262d&hide_border=true&locale=en&custom_title=Most%20%used%20%languages&layout=compact" alt="Top Languages" /></a>
 
