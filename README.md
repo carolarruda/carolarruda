@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [finishing my recipe sharing web app](https://github.com/carolarruda/carls)
 
-- 🌱 I’m currently learning **Vue.js and Angular**
+- 🌱 I’m currently learning **TypeScript and Next.js**
 
 - 📫 How to reach me [here](mailto:carolinacalarruda@gmail.com)
 
